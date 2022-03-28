@@ -17,3 +17,4 @@ vendor
 
 # Compiled
 dist
+bricks.config.mjs
